@@ -1,4 +1,4 @@
-# 📊 Olist- -Commerce Analysis
+# 📊 Olist E-Commerce Analysis
 
 ## 📌 Tổng quan dự án
 Dự án này phân tích bộ dữ liệu công khai từ Olist - một nền tảng thương mại điện tử của Brazil nhằm mục đích rút ra những insight về tình hình kinh doanh và những cải tiến nhằm tăng doanh thu và khách hàng.
